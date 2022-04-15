@@ -1,0 +1,1 @@
+java -jar -Dbusinessobjects.connectivity.directory="C:\Program Files (x86)\SAP BusinessObjects\SAP BusinessObjects Enterprise XI 4.0\dataAccess\connectionServer" GenerateUniverse.jar WIN-VLOTSC5M6IJ:6400 Administrator AtScale250 ASAdventureSmall.tds
